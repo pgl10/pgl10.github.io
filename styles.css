@@ -1,0 +1,15 @@
+.container {
+	padding-left: 10vw;
+	padding-right: 10vw;
+	margin: auto;
+}
+
+h1 {
+	padding: 2vh;
+	text-align: center;
+}
+
+.description {
+	font-weight: 800;
+	text-align: left;
+}
